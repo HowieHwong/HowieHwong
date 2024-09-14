@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Yue Huang
-
+# Hi there 👋 I'm Yue
 <!--
 **HowieHwong/HowieHwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
