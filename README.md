@@ -5,7 +5,7 @@
 
 [Website](https://howiehwong.github.io/) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=HvzvvqQAAAAJ) &nbsp;·&nbsp; [X](https://x.com/HowieH36226) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yue-huang-696816265/) &nbsp;·&nbsp; [Email](mailto:yhuang37@nd.edu)
 
-I'm a third-year Ph.D. student at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ) in the [MINE Lab](https://mine-lab-nd.github.io/), and a visiting researcher at [Stanford University](https://www.stanford.edu/). Before that, I did research at Microsoft Research, the MIT-IBM Watson AI Lab & IBM Research, and Tsinghua KEG.
+I'm a third-year Ph.D. student at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ) in the [MINE Lab](https://mine-lab-nd.github.io/). Previously, I did research at Microsoft Research, the MIT-IBM Watson AI Lab & IBM Research, and Tsinghua KEG.
 
 #### Highlights
 
