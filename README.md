@@ -5,7 +5,7 @@
 
 [Website](https://howiehwong.github.io/) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=HvzvvqQAAAAJ) &nbsp;·&nbsp; [X](https://x.com/HowieH36226) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yue-huang-696816265/) &nbsp;·&nbsp; [Email](mailto:yhuang37@nd.edu) &nbsp;·&nbsp; [CV](https://howiehwong.github.io/cv.html)
 
-Hi there 👋
+Hi there <img src="assets/wave.svg" alt="👋" height="26" align="absmiddle">
 
 I am a third-year PhD student at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ&hl=en) in the [MINE Lab](https://mine-lab-nd.github.io/).
 
