@@ -45,6 +45,7 @@ I build the toolchain that makes the above possible: frameworks for unified synt
 <!-- recent-contributions:start -->
 <a href="https://github.com/google-deepmind/formal-conjectures/pull/5082"><img alt="google-deepmind/formal-conjectures" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/cards/google-deepmind__formal-conjectures.svg" width="385"></a>
 <a href="https://github.com/teorth/optimizationproblems/pull/170"><img alt="teorth/optimizationproblems" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/cards/teorth__optimizationproblems.svg" width="385"></a>
+<a href="https://erich-friedman.github.io/packing/penintri/"><img alt="Erich&#x27;s Packing Center: Pentagons in Triangles: n = 30, 36, 39" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/cards/packing-penintri.svg" width="385"></a>
 <!-- recent-contributions:end -->
 
 <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/contrib-3d.svg" width="100%">
