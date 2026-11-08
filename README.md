@@ -5,14 +5,14 @@
 
 [Website](https://howiehwong.github.io/) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=HvzvvqQAAAAJ) &nbsp;·&nbsp; [X](https://x.com/HowieH36226) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yue-huang-696816265/) &nbsp;·&nbsp; [Email](mailto:yhuang37@nd.edu)
 
-I'm a third-year Ph.D. student at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ) in the [MINE Lab](https://mine-lab-nd.github.io/). Previously, I did research at Microsoft Research, the MIT-IBM Watson AI Lab & IBM Research, and Tsinghua KEG. My research has three directions.
+I'm a third-year Ph.D. student at the [University of Notre Dame](https://www.nd.edu/), advised by Prof. [Xiangliang Zhang](https://scholar.google.com/citations?user=BhRJe4wAAAAJ) in the [MINE Lab](https://mine-lab-nd.github.io/). Previously, I did research at Microsoft Research, the MIT-IBM Watson AI Lab & IBM Research, and Tsinghua KEG. I build self-improving, humane and humanized intelligence: foundation models and agentic systems aligned with human values, informed by human cognition, and supported by reliable infrastructure.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/lane-values-dark.png">
-  <img alt="Values" src="assets/lane-values-light.png" height="38">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/lane-alignment-dark.png">
+  <img alt="Alignment" src="assets/lane-alignment-light.png" height="38">
 </picture>
 
-AI that shares our values: benchmarks for trust and safety, and alignment that puts safety first.
+Aligning foundation models and agentic systems with human values, from individual behavior to collective dynamics, including [emergent social intelligence risks](https://arxiv.org/abs/2603.27771) that agent-level safeguards alone cannot prevent (*Nature Machine Intelligence*).
 
 - [**TrustLLM**](https://github.com/HowieHwong/TrustLLM) (ICML'24): a benchmark and toolkit for LLM trustworthiness
 - [**TrustEval**](https://github.com/TrustGen/TrustEval-toolkit) (ICLR'26, NAACL'25 Demo): a toolkit and benchmark for the trustworthiness of generative foundation models
@@ -24,7 +24,7 @@ AI that shares our values: benchmarks for trust and safety, and alignment that p
   <img alt="Cognition" src="assets/lane-cognition-light.png" height="38">
 </picture>
 
-AI that mirrors our cognition: how models use tools, reason and fail, plus emotionally adaptive AI such as [Omelune](https://howiehwong.github.io/omelune/).
+How models reason and perceive: when to use tools, how to adapt reasoning, and where they fail, plus emotionally adaptive AI such as [Omelune](https://howiehwong.github.io/omelune/).
 
 - [**MetaTool**](https://github.com/HowieHwong/MetaTool) (ICLR'24): deciding whether to use tools, and which ones
 - [**ProbeLLM**](https://github.com/HowieHwong/ProbeLLM) (ICML'26): automated, principled diagnosis of LLM failures
@@ -34,7 +34,7 @@ AI that mirrors our cognition: how models use tools, reason and fail, plus emoti
   <img alt="Infrastructure" src="assets/lane-infrastructure-light.png" height="38">
 </picture>
 
-The infrastructure that makes it real: synthetic data, guardrails, and systems that improve themselves, such as [Épi](https://bakeai.inc/research/articles/epi/) and [RSI Arena](https://rsiarena.org/).
+The toolchain that makes this possible: synthetic data, guardrails, and systems that improve themselves, such as [Épi](https://bakeai.inc/research/articles/epi/) and [RSI Arena](https://rsiarena.org/).
 
 - [**DataGen**](https://github.com/HowieHwong/DataGen) (ICLR'25): unified synthetic dataset generation with LLMs
 - [**ChemOrch**](https://github.com/HowieHwong/ChemOrch) (NeurIPS'25): synthetic instructions for chemical intelligence
