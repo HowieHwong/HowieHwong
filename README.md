@@ -38,8 +38,8 @@ I build the toolchain that makes the above possible: frameworks for unified synt
 
 ## Blog
 
-- [**RSI Arena: Towards Recursive Self-Improvement with Human Feedback**](https://bakeai.inc/research/blogs/rsi-arena/) · Bake AI, October 19, 2026
-- [**Reward Hacking Challenges Oversight of Autonomous Research Agents**](https://bakeai.inc/research/blogs/reward-hacking/) · Bake AI, September 23, 2026
+- [**RSI Arena: Towards Recursive Self-Improvement with Human Feedback**](https://bakeai.inc/research/blogs/rsi-arena/) · Bake AI
+- [**Reward Hacking Challenges Oversight of Autonomous Research Agents**](https://bakeai.inc/research/blogs/reward-hacking/) · Bake AI
 
 ## Research Artifacts
 
