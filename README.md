@@ -35,22 +35,3 @@ I probe how models reason and perceive, deciding when to use tools ([MetaTool](h
 </picture>
 
 I build the toolchain that makes the above possible: frameworks for unified synthetic data ([DataGen](https://openreview.net/forum?id=F5R0lG74Tu) <sup>ICLR'25</sup>, [ChemOrch](https://github.com/HowieHwong/ChemOrch) <sup>NeurIPS'25</sup>), synthetic interaction data for scalable personalization ([PersonaGym](https://arxiv.org/abs/2602.12394) <sup>KDD'26</sup>), foundational guardrails for safer agentic systems ([Safiron](https://openreview.net/forum?id=M47SWYubR5) <sup>ICLR'26</sup>), a new guardian model paradigm ([Guardian-as-an-Advisor](https://arxiv.org/abs/2604.07655) <sup>ACL'26 Findings</sup>), agent infrastructure that turns compute into verifiable improvement and has broken 120 world records in mathematics ([Épi](https://bakeai.inc/research/articles/epi/) <sup>Bake AI</sup>), and infrastructure for recursive self-improvement ([RSI Arena](https://rsiarena.org/) <sup>Live at COLM'26</sup>).
-
-## Blog
-
-- [**RSI Arena: Towards Recursive Self-Improvement with Human Feedback**](https://bakeai.inc/research/blogs/rsi-arena/) · Bake AI
-- [**Reward Hacking Challenges Oversight of Autonomous Research Agents**](https://bakeai.inc/research/blogs/reward-hacking/) · Bake AI
-
-## Research Artifacts
-
-Open-source toolkits, benchmarks, and datasets from our work on trustworthy and aligned foundation models.
-
-- [**RiskLab**](https://github.com/HowieHwong/RiskLab) · Toolkit · ACL 2026 Demo: A controlled multi-agent framework for probing emergent social risks in LLM agent collectives, specified as topology–environment–protocol–agent–task quintuples.
-- [**ProbeLLM**](https://github.com/HowieHwong/ProbeLLM) · Toolkit · ICML 2026: An automated probing framework that discovers structured LLM failure modes via hierarchical Monte Carlo Tree Search, tool-augmented test generation, and failure-aware clustering.
-- [**ValueLence**](https://github.com/HowieHwong/ValueLence) · Dashboard: The first unified platform for dynamic, fine-grained value probing of LLMs — value curation, probe generation, response collection, and multi-dimensional evaluation.
-- [**SDE-Harness**](https://github.com/HowieHwong/sde-harness) · Toolkit: Scientific Discovery Evaluation — an extensible framework designed to accelerate AI-powered scientific discovery.
-- [**ChemOrch**](https://github.com/HowieHwong/ChemOrch) · Toolkit · NeurIPS 2025: Intelligent task orchestration for chemical research — turns a chemical task into high-quality instruction–response pairs.
-- [**TrustEval**](https://github.com/TrustGen/TrustEval-toolkit) · Toolkit · NAACL 2025 Demo: A modular, extensible toolkit for trust evaluation of generative foundation models across safety, fairness, robustness, privacy, and more.
-- [**DataGen**](https://github.com/HowieHwong/UniGen) · Toolkit · ICLR 2025: An LLM-powered framework for generating diverse, accurate, and highly controllable text datasets.
-- [**TrustLLM**](https://github.com/HowieHwong/TrustLLM) · Toolkit · ICML 2024: A Python package that helps you assess the trustworthiness of your LLM more quickly.
-- [**MetaTool**](https://github.com/HowieHwong/MetaTool) · Dataset · ICLR 2024: A benchmark for evaluating whether LLMs have tool-usage awareness and can correctly choose the right tool.
