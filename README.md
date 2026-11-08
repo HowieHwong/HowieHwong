@@ -1,9 +1,13 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <img alt="Yue Huang 黄跃 — building human-centered, self-evolving AI systems" src="assets/header-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Yue Huang 黄跃 — building human-centered, self-evolving AI systems" src="assets/header-light.svg" width="100%">
 </picture>
 
 [Website](https://howiehwong.github.io/) &nbsp;·&nbsp; [Scholar](https://scholar.google.com/citations?user=HvzvvqQAAAAJ) &nbsp;·&nbsp; [X](https://x.com/HowieH36226) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yue-huang-696816265/) &nbsp;·&nbsp; [Email](mailto:yhuang37@nd.edu) &nbsp;·&nbsp; [CV](https://howiehwong.github.io/cv.html)
+
+<sub>Past · Present</sub>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/Notre_Dame-96-dark.webp"><img src="assets/logos/Notre_Dame-96.webp" alt="University of Notre Dame" title="University of Notre Dame" height="44"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/Microsoft-Logo-96-dark.webp"><img src="assets/logos/Microsoft-Logo-96.webp" alt="Microsoft Research" title="Microsoft Research (2026)" height="44"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/mit_ibm-96-dark.webp"><img src="assets/logos/mit_ibm-96.webp" alt="MIT-IBM Watson AI Lab" title="MIT-IBM Watson AI Lab" height="44"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/cornell-96-dark.webp"><img src="assets/logos/cornell-96.webp" alt="Cornell University" title="Cornell University" height="44"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/thu-96-dark.webp"><img src="assets/logos/thu-96.webp" alt="Tsinghua University" title="Tsinghua University KEG" height="44"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/scu-96-dark.webp"><img src="assets/logos/scu-96.webp" alt="Sichuan University" title="Sichuan University" height="44"></picture>
 
 Hi there <img src="assets/wave.svg" alt="👋" height="26" align="absmiddle">
 
@@ -35,5 +39,12 @@ I probe how models reason and perceive, deciding when to use tools ([MetaTool](h
 </picture>
 
 I build the toolchain that makes the above possible: frameworks for unified synthetic data ([DataGen](https://openreview.net/forum?id=F5R0lG74Tu) <sup>ICLR'25</sup>, [ChemOrch](https://github.com/HowieHwong/ChemOrch) <sup>NeurIPS'25</sup>), synthetic interaction data for scalable personalization ([PersonaGym](https://arxiv.org/abs/2602.12394) <sup>KDD'26</sup>), foundational guardrails for safer agentic systems ([Safiron](https://openreview.net/forum?id=M47SWYubR5) <sup>ICLR'26</sup>), a new guardian model paradigm ([Guardian-as-an-Advisor](https://arxiv.org/abs/2604.07655) <sup>ACL'26 Findings</sup>), agent infrastructure that turns compute into verifiable improvement and has broken 120 world records in mathematics ([Épi](https://bakeai.inc/research/articles/epi/) <sup>Bake AI</sup>), and infrastructure for recursive self-improvement ([RSI Arena](https://rsiarena.org/) <sup>Live at COLM'26</sup>).
+
+## Recent contributions
+
+<!-- recent-contributions:start -->
+<a href="https://github.com/google-deepmind/formal-conjectures/pull/5082"><img alt="google-deepmind/formal-conjectures" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/cards/google-deepmind__formal-conjectures.svg" width="385"></a>
+<a href="https://github.com/teorth/optimizationproblems/pull/170"><img alt="teorth/optimizationproblems" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/cards/teorth__optimizationproblems.svg" width="385"></a>
+<!-- recent-contributions:end -->
 
 <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/contrib-3d.svg" width="100%">

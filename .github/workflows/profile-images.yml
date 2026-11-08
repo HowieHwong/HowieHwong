@@ -5,7 +5,7 @@ on:
     - cron: "23 5 * * *"
   workflow_dispatch:
   push:
-    branches: [main, readme-refresh]
+    branches: [main]
     paths:
       - .github/workflows/profile-images.yml
       - .github/profile/**
@@ -31,6 +31,20 @@ jobs:
         run: |
           mkdir -p "$RUNNER_TEMP/out"
           python3 .github/profile/clean3d.py profile-3d-contrib/contrib-3d.svg "$RUNNER_TEMP/out/contrib-3d.svg"
+
+      - name: Draw the recent contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          python3 .github/profile/cards.py "$RUNNER_TEMP/out" README.md
+
+      - name: Update the README when the list of contributions changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -q -m "Update recent contributions" && git push || true
 
       - name: Publish the images to the output branch
         env:
