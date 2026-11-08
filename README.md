@@ -35,3 +35,5 @@ I probe how models reason and perceive, deciding when to use tools ([MetaTool](h
 </picture>
 
 I build the toolchain that makes the above possible: frameworks for unified synthetic data ([DataGen](https://openreview.net/forum?id=F5R0lG74Tu) <sup>ICLR'25</sup>, [ChemOrch](https://github.com/HowieHwong/ChemOrch) <sup>NeurIPS'25</sup>), synthetic interaction data for scalable personalization ([PersonaGym](https://arxiv.org/abs/2602.12394) <sup>KDD'26</sup>), foundational guardrails for safer agentic systems ([Safiron](https://openreview.net/forum?id=M47SWYubR5) <sup>ICLR'26</sup>), a new guardian model paradigm ([Guardian-as-an-Advisor](https://arxiv.org/abs/2604.07655) <sup>ACL'26 Findings</sup>), agent infrastructure that turns compute into verifiable improvement and has broken 120 world records in mathematics ([Épi](https://bakeai.inc/research/articles/epi/) <sup>Bake AI</sup>), and infrastructure for recursive self-improvement ([RSI Arena](https://rsiarena.org/) <sup>Live at COLM'26</sup>).
+
+<img alt="3D contribution calendar" src="https://raw.githubusercontent.com/HowieHwong/HowieHwong/output/contrib-3d.svg" width="100%">
